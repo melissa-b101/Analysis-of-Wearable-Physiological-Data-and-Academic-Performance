@@ -46,7 +46,7 @@ grade for all subjects was 74.8, so those outperforming this score (5 subjects t
 lower were hence classified as low performers. The high_performer variable is our target variable, and this project aims to identify which
 physiological measurements are most linked to high-performing students.
 ## Research Questions
-1: How do high-performing and low-performing students exhibit different physiological patterns during exams?
-2: Do heart rate and skin temperature differ between high and low performers across exam sessions?
-3: How do physiological signals change across the three exam sessions (Midterm 1, Midterm 2, Final)?
-4: Can physiological signals measured during exams predict whether a student is a high or low performer?
+1. How do high-performing and low-performing students exhibit different physiological patterns during exams?
+2. Do heart rate and skin temperature differ between high and low performers across exam sessions?
+3. How do physiological signals change across the three exam sessions (Midterm 1, Midterm 2, Final)?
+4. Can physiological signals measured during exams predict whether a student is a high or low performer?
