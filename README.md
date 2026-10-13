@@ -1,4 +1,4 @@
-# Linking Physiological Responses to Cognitive Performance During Testing
+# Analyzing Physiological Responses to Predict Cognitive Performance During Testing
 ## Abstract
 Student stress during exams is a well recognized issue, however, its physiological manifestation and relationship to academic performance
 remain underexplored. This study investigates whether or not physiological signals recorded by a wearable device(HR, EDA, BVP, etc.)
